@@ -3,7 +3,8 @@ from django.http import HttpResponse, HttpResponseRedirect
 from django.template import loader
 from django.http import Http404
 from django.urls import reverse
-from .models import Question, Choice
+
+from .models import Choice , Question
 
 # Create your views here.
 
