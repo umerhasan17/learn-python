@@ -1,4 +1,5 @@
 {
-    "python.pythonPath": "C:\\Users\\Umer\\envs\\DRFenv\\Scripts\\python.exe",
-    "git.ignoreLimitWarning": true
+    "python.pythonPath": "C:\\Users\\Umer\\envs\\DRFenv2\\Scripts\\python.exe",
+    "git.ignoreLimitWarning": true,
+    "python.formatting.provider": "black"
 }
