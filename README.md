@@ -1,6 +1,4 @@
 # LearnPython
-General python with django framework.
 
-TODO:
-Data science & machine learning applications of the language.
-Getting to grips with creating market alphas.
+v0.1.0 July 19 2022: New and improved learn-python library with useful tips and scripts
+
